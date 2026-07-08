@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "KampusMarket",
+    "slug": "kampusmarket",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#0B1E3F"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.kampusmarket.app"
+    },
+    "android": {
+      "package": "com.kampusmarket.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#0B1E3F"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
