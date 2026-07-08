@@ -80,7 +80,7 @@ tipe navigasi (params antar layar dicek otomatis oleh TypeScript) dan tipe data
 
 ## Teknologi
 
-- Expo SDK 51
+- Expo SDK 54
 - React Navigation (Native Stack + Bottom Tabs)
 - Context API + AsyncStorage (persist sesi login & wishlist)
 - Ionicons (`@expo/vector-icons`)
